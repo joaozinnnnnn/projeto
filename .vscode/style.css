@@ -45,7 +45,8 @@ width:largura; heigt:altura; border borda sempre solid de alguma cor.ex:red
 usar sem o margin auto para sempre ser centra*/
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /*usar a bordar e imporante para saber se esta no centro border 1px solid red */
   /*margin-top: 56px;
   margin-right: auto;
